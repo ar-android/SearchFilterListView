@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_jeans">#5D9CEC</color>
+    <color name="blue_jeans_dark">#4A89DC</color>
+    <color name="aqua">#4FC1E9</color>
+    <color name="aqua_dark">#3BAFDA</color>
+    <color name="mint">#48CFAD</color>
+    <color name="mint_dark">#37BC9B</color>
+    <color name="grass">#A0D468</color>
+    <color name="grass_dark">#8CC152</color>
+    <color name="sunflower">#FFCE54</color>
+    <color name="sunflower_dark">#F6BB42</color>
+    <color name="smoot_red">#ED5565</color>
+    <color name="smoot_res_dark">#DA4453</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="light_gray">#F5F7FA</color>
+    
+</resources>
